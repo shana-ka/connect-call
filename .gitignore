@@ -1,0 +1,107 @@
+# ==========================================
+# Flutter / Dart
+# ==========================================
+
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+coverage/
+
+# Generated documentation
+**/doc/api/
+
+# Flutter build files
+**/ios/Flutter/.last_build_id
+
+# ==========================================
+# Android
+# ==========================================
+
+/android/.gradle/
+/android/build/
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+
+# Android generated files
+android/local.properties
+
+# ==========================================
+# iOS
+# ==========================================
+
+/ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/ephemeral/
+/ios/Flutter/Generated.xcconfig
+
+# ==========================================
+# macOS
+# ==========================================
+
+/macos/Pods/
+
+# ==========================================
+# Windows
+# ==========================================
+
+/windows/flutter/ephemeral/
+
+# ==========================================
+# Linux
+# ==========================================
+
+/linux/flutter/ephemeral/
+
+# ==========================================
+# IntelliJ / Android Studio
+# ==========================================
+
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# ==========================================
+# VS Code
+# ==========================================
+
+# Keep VS Code settings if you want them in Git.
+# Uncomment the following line if you DON'T want them uploaded.
+# .vscode/
+
+# ==========================================
+# Miscellaneous
+# ==========================================
+
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history/
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# ==========================================
+# Debug / Symbolication
+# ==========================================
+
+app.*.symbols
+app.*.map.json
+
+# ==========================================
+# Temporary files
+# ==========================================
+
+*.tmp
+*.temp
+*.bak
